@@ -1,0 +1,3 @@
+/Users/ubp/CLionProjects/Up Down Challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ubp/CLionProjects/Up Down Challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ubp/CLionProjects/Up Down Challenge/cmake-build-debug/CMakeFiles/Up_Down_Challenge.dir
