@@ -26,7 +26,5 @@ The goal is to have all ⬆️ arrows above and all ⬇️ arrows below.
 This is an attempt to solve this puzzle using the A* path finding algorithm implemented in C.
 
 ## To do
-- Allow for multiple final states
-- Create functions to return initial state and final states in "state.c" file.
 - Avoid static memory allocations using arbitrary size values.
 - Refactor "head_decrease_key" function to work without creating another Heap and deleting.
