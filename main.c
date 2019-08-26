@@ -1,15 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#include "state.h"
 #include "aStar.h"
 
 int main() {
-    bool sucess = false;
+    bool success = false;
 
-    sucess = aStar();
+    success = aStar();
 
-    if(sucess == true) {
+    if(success == true) {
         printf("\nSuccessfully finished\n");
         return EXIT_SUCCESS;
     }
@@ -17,4 +16,5 @@ int main() {
         printf("\nFailed run\n");
         return EXIT_FAILURE;
     }
+
 }

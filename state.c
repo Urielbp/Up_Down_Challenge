@@ -9,14 +9,6 @@
 
 bool is_equal_state(State *s1, State *s2) {
     return (strcmp(s1->board, s2->board) == 0) ? true : false;
-    /*
-    for (int i = 0; i < N - 1; i++) {
-        if (s1->board[i] != s2->board[i]) {
-            return false;
-        }
-    }
-    return true;
-    */
 }
 
 bool is_final_state(State *s, State **finalStates) {

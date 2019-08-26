@@ -6,7 +6,43 @@
 
 #IncludeRegexTransform: 
 
-/Users/ubp/CLionProjects/Up Down Challenge/main.c
+/Users/ubp/CLionProjects/Up Down Challenge/aStar.c
+heap.h
+/Users/ubp/CLionProjects/Up Down Challenge/heap.h
+stdlib.h
+-
 stdio.h
+-
+stdbool.h
+-
+string.h
+-
+aStar.h
+/Users/ubp/CLionProjects/Up Down Challenge/aStar.h
+
+/Users/ubp/CLionProjects/Up Down Challenge/aStar.h
+stdbool.h
+-
+state.h
+/Users/ubp/CLionProjects/Up Down Challenge/state.h
+
+/Users/ubp/CLionProjects/Up Down Challenge/heap.h
+state.h
+/Users/ubp/CLionProjects/Up Down Challenge/state.h
+aStar.h
+/Users/ubp/CLionProjects/Up Down Challenge/aStar.h
+
+/Users/ubp/CLionProjects/Up Down Challenge/state.c
+state.h
+/Users/ubp/CLionProjects/Up Down Challenge/state.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/Users/ubp/CLionProjects/Up Down Challenge/state.h
+stdbool.h
 -
 
